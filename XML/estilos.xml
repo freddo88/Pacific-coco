@@ -1,0 +1,10 @@
+<styles>
+    <colors>
+        <primary>#eeebde</primary>
+        <secondary>#f8f8f8</secondary>
+    </colors>
+    <fonts>
+        <title>Arial, sans-serif</title>
+        <body>Arial, sans-serif</body>
+    </fonts>
+</styles>
